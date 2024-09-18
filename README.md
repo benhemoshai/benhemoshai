@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I have a Golden Retriever named Jessie**
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=benhemoshai
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=benhemoshai)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
