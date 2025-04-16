@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shai Ben Hemo</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 
-- 👨‍💻 All of my projects are available at [https://benhemoshai.github.io/Portfolio/](https://benhemoshai.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://benhemoshai-portfolio.vercel.app/](https://benhemoshai-portfolio.vercel.app/)
 
 - 📫 How to reach me **benhemoshai@gmail.com**
 
