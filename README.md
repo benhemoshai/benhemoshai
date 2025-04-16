@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shai Ben Hemo</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
 
-- 🌱 I’m currently learning **Angular, NodeJS**
-
 - 👨‍💻 All of my projects are available at [https://benhemoshai.github.io/Portfolio/](https://benhemoshai.github.io/Portfolio/)
 
 - 📫 How to reach me **benhemoshai@gmail.com**
